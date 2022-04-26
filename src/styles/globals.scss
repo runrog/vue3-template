@@ -1,0 +1,7 @@
+// This file is imported to all .vue files so we can use
+// variables/mixins inside local styles in any component
+@import 'colors';
+@import 'mixins';
+@import 'psuedos';
+@import 'grid';
+@import 'flex';
