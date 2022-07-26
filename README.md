@@ -1,7 +1,7 @@
 # Project Name
 
 ## Project setup
-- Copy the `.env.example file -> .env.local`
+- Copy the `.env.example file -> .env.local`. Any variables in this file will be used across all environments.
 
 - Install dependencies
   ```
@@ -21,7 +21,7 @@ This will use `.env.production.local` variables unless specifying a mode.
 npm run build
 ```
 
-To build for staging use the comman below. This will use the `.env.staging.local` variables.
+To build for staging use the command below. This will use the `.env.staging.local` variables.
 ```
 npm run build:staging
 ```

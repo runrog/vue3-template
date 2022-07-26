@@ -2,3 +2,4 @@ build
 public
 .eslintrc.js
 node_modules
+src/components/loaders/logo/Logo.Vue

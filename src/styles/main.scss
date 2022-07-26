@@ -1,1 +1,16 @@
 @import 'psuedos';
+@import './icons/css/revive.css';
+
+@font-face {
+  font-family: 'proxima-regular';
+  font-style: normal;
+  font-weight: normal;
+  src: url('./fonts/Proxima-Nova-Regular.otf')format('opentype');
+}
+
+@font-face {
+  font-family: 'proxima-bold';
+  font-style: normal;
+  font-weight: normal;
+  src: url('./fonts/Proxima-Nova-Bold.otf')format('opentype');
+}

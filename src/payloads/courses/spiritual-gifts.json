@@ -1,0 +1,41 @@
+{
+  "name": "Spiritual Gifts",
+  "items": [
+    {
+      "question": "I like organizing services and events.",
+      "options": [
+        {
+          "label": "1",
+          "value": 1,
+        },
+        {
+          "label": "2",
+          "value": 1,
+        },
+        {
+          "label": "3",
+          "value": 1,
+        }
+      ],
+      "selected": null
+    },
+    {
+      "question": "I am interested in starting new churches.",
+      "options": [
+        {
+          "label": "1",
+          "value": 1,
+        },
+        {
+          "label": "2",
+          "value": 1,
+        },
+        {
+          "label": "3",
+          "value": 1,
+        }
+      ],
+      "selected": null
+    }
+  ]
+}

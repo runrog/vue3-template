@@ -1,7 +1,11 @@
 import * as types from '@/store/mutation-types';
 
 const state = {
-  user: {},
+  user: {
+    admin: true,
+    firstName: 'Roger',
+    lastName: 'Avalos',
+  },
 };
 
 const getters = {

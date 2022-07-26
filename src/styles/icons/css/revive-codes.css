@@ -1,0 +1,10 @@
+
+.revive-book-open:before { content: '\e800'; } /* '' */
+.revive-dashboard:before { content: '\e801'; } /* '' */
+.revive-profile:before { content: '\e802'; } /* '' */
+.revive-team:before { content: '\e803'; } /* '' */
+.revive-toolbox:before { content: '\e804'; } /* '' */
+.revive-logout:before { content: '\e805'; } /* '' */
+.revive-search:before { content: '\e806'; } /* '' */
+.revive-house:before { content: '\e807'; } /* '' */
+.revive-long-left-arrow:before { content: '\e808'; } /* '' */

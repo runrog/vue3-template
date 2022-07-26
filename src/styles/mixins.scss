@@ -1,3 +1,8 @@
+// breakpoints
+$tablet-min: 601px;
+$tablet-max: 992px;
+$desktop-min: 993px;
+
 @mixin clear-fix {
   &::after {
     clear: both;
